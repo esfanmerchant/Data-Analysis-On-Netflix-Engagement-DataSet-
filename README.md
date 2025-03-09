@@ -47,7 +47,7 @@
 <h2>🚀 Getting Started</h2>
 <ol>
     <li>Clone this repository:</li>
-    <pre><code>git clone https://github.com/yourusername/netflix-engagement-analysis.git</code></pre>
+    <pre><code>git clone https://github.com/esfanmerchant/Data-Analysis-On-Netflix-Engagement-DataSet-.git</code></pre>
     <li>Install dependencies:</li>
     <pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
     <li>Run the Jupyter Notebook to explore visualizations!</li>
