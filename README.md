@@ -1,46 +1,60 @@
-📊 Netflix Engagement Analysis
-📌 Overview
-This project explores a Netflix Engagement Dataset, analyzing customer behavior, subscription trends, and churn rates using Pandas, NumPy, Matplotlib, and Seaborn. Various visualizations and statistical insights are derived to understand user engagement better.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-📂 Dataset Features
-The dataset includes:
-✔️ Subscription Details (Plan type, Length, Payment history)
-✔️ User Activity (Daily watch time, Engagement rate, Genre preference)
-✔️ Demographics (Region, Age, Monthly Income)
-✔️ Customer Retention (Churn status, Support queries)
+<h1>📊 Netflix Engagement Analysis</h1>
 
-📊 Key Analyses & Visualizations
-🔹 Churn Analysis → Bar chart of churned customers per region
-🔹 Subscription Plan Distribution → Grouped bar graph comparing plans in different regions
-🔹 Engagement Rate vs Promotional Offers → Scatter plot & Box plot
-🔹 Daily Watch Time Across Plans → Pie chart representation
-🔹 Rich Customers by Region → Count of premium subscribers with above-average income
-🔹 Correlation Between Features → Various statistical relationships explored
+<h2>📌 Overview</h2>
+<p>This project explores a <strong>Netflix Engagement Dataset</strong>, analyzing customer behavior, subscription trends, and churn rates using <strong>Pandas, NumPy, Matplotlib, and Seaborn</strong>. Various visualizations and statistical insights are derived to understand user engagement better.</p>
 
-📜 Notable Findings
-📌 Customers using promotional offers tend to have higher engagement rates.
-📌 Premium users have significantly higher daily watch time than Standard & Basic users.
-📌 Churn rate varies across regions, with some areas experiencing higher customer dropouts.
-📌 Grouped bar charts provide clear insights into regional subscription preferences.
+<h2>📂 Dataset Features</h2>
+<ul>
+    <li>✔️ <strong>Subscription Details</strong> (Plan type, Length, Payment history)</li>
+    <li>✔️ <strong>User Activity</strong> (Daily watch time, Engagement rate, Genre preference)</li>
+    <li>✔️ <strong>Demographics</strong> (Region, Age, Monthly Income)</li>
+    <li>✔️ <strong>Customer Retention</strong> (Churn status, Support queries)</li>
+</ul>
 
-🛠️ Technologies Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook / Google Colab
-GitHub for version control
-🚀 Getting Started
-1️⃣ Clone this repository:
+<h2>📊 Key Analyses & Visualizations</h2>
+<ul>
+    <li>🔹 <strong>Churn Analysis</strong> → Bar chart of churned customers per region</li>
+    <li>🔹 <strong>Subscription Plan Distribution</strong> → Grouped bar graph comparing plans in different regions</li>
+    <li>🔹 <strong>Engagement Rate vs Promotional Offers</strong> → Scatter plot & Box plot</li>
+    <li>🔹 <strong>Daily Watch Time Across Plans</strong> → Pie chart representation</li>
+    <li>🔹 <strong>Rich Customers by Region</strong> → Count of premium subscribers with above-average income</li>
+    <li>🔹 <strong>Correlation Between Features</strong> → Various statistical relationships explored</li>
+</ul>
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/netflix-engagement-analysis.git
-2️⃣ Install dependencies:
+<h2>📜 Notable Findings</h2>
+<ul>
+    <li>📌 Customers using promotional offers tend to have <strong>higher engagement rates</strong>.</li>
+    <li>📌 <strong>Premium users</strong> have significantly higher daily watch time than <strong>Standard & Basic users</strong>.</li>
+    <li>📌 Churn rate varies across regions, with some areas experiencing <strong>higher customer dropouts</strong>.</li>
+    <li>📌 <strong>Grouped bar charts</strong> provide clear insights into regional subscription preferences.</li>
+</ul>
 
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn
-3️⃣ Run the Jupyter Notebook to explore visualizations!
+<h2>🛠️ Technologies Used</h2>
+<ul>
+    <li><strong>Python</strong> (Pandas, NumPy, Matplotlib, Seaborn)</li>
+    <li><strong>Jupyter Notebook / Google Colab</strong></li>
+    <li><strong>GitHub</strong> for version control</li>
+</ul>
 
-📢 Contributing
-Feel free to fork the repo, suggest improvements, or add new analyses! 🚀
+<h2>🚀 Getting Started</h2>
+<ol>
+    <li>Clone this repository:</li>
+    <pre><code>git clone https://github.com/yourusername/netflix-engagement-analysis.git</code></pre>
+    <li>Install dependencies:</li>
+    <pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
+    <li>Run the Jupyter Notebook to explore visualizations!</li>
+</ol>
+
+<h2>📢 Contributing</h2>
+<p>Feel free to <strong>fork the repo</strong>, suggest improvements, or add new analyses! 🚀</p>
+
+</body>
+</html>
